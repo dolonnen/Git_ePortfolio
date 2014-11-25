@@ -1,5 +1,5 @@
 #########################################################
-# Das ist eine Demonstrationsdatei. Bitte nicht ändern.
+# Das ist eine Demonstrationsdatei. Bitte nicht Ã¤ndern.
 ######################################################### 
 
 int main() {
