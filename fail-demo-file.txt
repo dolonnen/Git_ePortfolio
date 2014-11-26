@@ -1,8 +1,8 @@
-#########################################################
+﻿#########################################################
 # Das ist eine Demonstrationsdatei. Bitte nicht ändern.
 ######################################################### 
 
 int main() {
-  printf("Hello World\n");
+  printf("Lukas war hier!\n");
   return 0;
 }
